@@ -1,0 +1,5 @@
+http://example.com/2022/11/24/aaa/
+http://example.com/2022/11/24/article-title-1/
+http://example.com/2022/11/24/article-title/
+http://example.com/2022/11/24/hello-world/
+http://example.com/
